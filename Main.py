@@ -1,5 +1,5 @@
 from codecs import open
-from google_drive_downloader import GoogleDriveDownloader as gdd
+from google_drive_downloader import GoogleDriveDownloader as gdd # package googledrivedownloader
 import re
 
 
